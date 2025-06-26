@@ -1,6 +1,6 @@
 //JavaScript is a dynamically types language
 
-// Primitve Dataypes
+// Primitve Dataypes (Stack Memory)
 /* 7 types
 String
 Number
@@ -11,7 +11,7 @@ Symbol
 BigInt
 */
 
-//Reference Type or Non - primitve
+//Reference Type or Non - primitve (Heap Memory)
 
 /*
 Array
