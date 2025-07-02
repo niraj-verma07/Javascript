@@ -1,2 +1,1 @@
-# Javascript
-Revision of JavaScript from Chai aur Code
+# Javascript Practice
